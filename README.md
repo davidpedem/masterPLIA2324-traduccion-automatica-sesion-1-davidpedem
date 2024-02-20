@@ -1,1 +1,2 @@
-# Evaluando distintas traducciones (2 automáticas y 1 manual) del comienzo del libro The Hobbit - J.R. Tolkien
+# Evaluando dos traducciones automáticas: un texto original y una traducción manual de referencia.
+Libro: The Hobbit - J.R. Tolkien
