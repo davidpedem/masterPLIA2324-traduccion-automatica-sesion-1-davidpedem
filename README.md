@@ -1,1 +1,1 @@
-# masterPLIA2324-traduccion-automatica-sesion-1-davidpedem
+# Evaluando distintas traducciones (2 automáticas y 1 manual) del comienzo del libro The Hobbit - J.R. Tolkien
